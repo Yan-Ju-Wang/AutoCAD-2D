@@ -1,0 +1,989 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO]
+"WorkspaceNameAtProfileSave"="製圖與註解"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Application Menu]
+"DocumentView"="Icons"
+"DocumentGroupBy"="Ordered"
+"DocumentListType"="RecentDocuments"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Camera]
+"Model glyphs color"=dword:009C6630
+"Layout glyphs color"=dword:00AB7035
+"Parallel glyphs color"=dword:009C6630
+"Perspective glyphs color"=dword:009C6630
+"Model frustrum color"=dword:006666FF
+"Layout frustrum color"=dword:006666FF
+"Parallel frustrum color"=dword:006666FF
+"Perspective frustrum color"=dword:006666FF
+"Model clipping color"=dword:00F0CAA6
+"Layout clipping color"=dword:00F0CAA6
+"Parallel clipping color"=dword:00F0CAA6
+"Perspective clipping color"=dword:00F0CAA6
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Command Line Windows]
+"CmdLine.BackColor"=dword:00FF0000
+"TextWindow.ForeColor"=dword:00000000
+"TextWindow.BackColor"=dword:00C8C8C8
+"CmdLine.ForeColor"=dword:00FFFFFF
+"CmdLine.TempPromptBkColor"=dword:00666666
+"CmdLine.TempPromptTextColor"=dword:00FFFFFF
+"CmdLine.CmdOptKeywordColor"=dword:000000FF
+"CmdLine.CmdOptBkColor"=dword:00FF0000
+"CmdLine.CmdOptHighlightedColor"=dword:00B3B3B3
+"CmdLine.FontFace"="Consolas"
+"CmdLine.FontHeight"=dword:0000000E
+"CmdLine.FontWeight"=dword:000002BC
+"CmdLine.FontItalic"=dword:00000000
+"CmdLine.FontPitchAndFamily"=dword:00000031
+"TextWindow.FontFace"="Consolas"
+"TextWindow.FontHeight"=dword:0000000E
+"TextWindow.FontWeight"=dword:000002BC
+"TextWindow.FontItalic"=dword:00000000
+"TextWindow.FontPitchAndFamily"=dword:00000031
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\AcCamera]
+"GlyphSize"=dword:00000032
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\AcDim:DimstyleFormat]
+"ActiveTab"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\AllAnavDialogs]
+"PlacesOrder0"="History"
+"PlacesOrder0Display"="歷程"
+"PlacesOrder0Ext"=""
+"PlacesOrder1"="Personal"
+"PlacesOrder1Display"="文件"
+"PlacesOrder1Ext"=""
+"PlacesOrder2"="Favorites"
+"PlacesOrder2Display"="我的最愛"
+"PlacesOrder2Ext"=""
+"PlacesOrder3"="FTPSites"
+"PlacesOrder3Display"="FTP"
+"PlacesOrder3Ext"=""
+"PlacesOrder4"="Desktop"
+"PlacesOrder4Display"="桌面"
+"PlacesOrder4Ext"=""
+"PlacesOrder5"=""
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\ChangeDictonariesDialog]
+"CustomDictionaries"="%RoamableRootFolder%\\Support\\sample.cus;"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\CHTMLDialog]
+"X"=dword:000001F9
+"Y"=dword:000000F3
+"Width"=dword:0000020E
+"Height"=dword:00000153
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\CustomizeDialog]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\CustomizeDialog\TabExtensions]
+"acmgd.dll"="acmgd.dll"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\DrawingSettingsDialog]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\DrawingSettingsDialog\TabExtensions]
+"acmgd.dll"="acmgd.dll"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\DrawingWindowColorsDialog]
+"X"=dword:00000348
+"Y"=dword:000000D2
+"Width"=dword:00000263
+"Height"=dword:000001FB
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\LayerManager]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\OptionsDialog]
+"ActiveTab"=dword:00000008
+"X"=dword:000002FB
+"Y"=dword:000000B2
+"Width"=dword:000002FD
+"Height"=dword:0000023C
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\OptionsDialog\TabExtensions]
+"acmgd.dll"="acmgd.dll"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\OptionsDialog_DisplayTab]
+"COLORSCHEME"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\ProfileExportFileDialog]
+"FileNameMRU0"="C:\\ACAD-2D\\2D-DEMO.arg"
+"InitialFilterIndex"=dword:00000000
+"ViewMode"=dword:00000004
+"InitialDirectory"="C:\\ACAD-2D\\"
+"X"=dword:00000254
+"Y"=dword:000000E7
+"Width"=dword:000002BB
+"Height"=dword:000001DC
+"ShellView-ColumnCount"=dword:00000004
+"ShellView-Column0"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 10"
+"ShellView-Column1"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 14"
+"ShellView-Column2"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 4"
+"ShellView-Column3"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 12"
+"ShellView-SortColumnsCount"=dword:00000001
+"ShellView-SortColumns0"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 10"
+"ShellView-SortColumns0Direction"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dialogs\選取檔案]
+"ShellView-ColumnCount"=dword:00000004
+"ShellView-Column0"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 10"
+"ShellView-Column1"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 14"
+"ShellView-Column2"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 4"
+"ShellView-Column3"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 12"
+"ShellView-SortColumnsCount"=dword:00000001
+"ShellView-SortColumns0"="{B725F130-47EF-101A-A5F1-02608C9EEBAC} 10"
+"ShellView-SortColumns0Direction"=dword:00000001
+"FileNameMRU0"="%RoamableRootFolder%\\Support\\acad.CUIX"
+"InitialFilterIndex"=dword:00000000
+"ViewMode"=dword:00000004
+"InitialDirectory"="C:\\ACAD-2D\\SUPPORT\\"
+"X"=dword:0000031C
+"Y"=dword:000000E2
+"Width"=dword:000002BB
+"Height"=dword:000001DC
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Drawing Recovery]
+""=""
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Drawing Recovery\Unresolved]
+""=""
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Drawing Window]
+"Background"=dword:00302821
+"Layout background"=dword:00000000
+"Paper background"=dword:008A8A8A
+"Parallel background"=dword:00302821
+"Perspective sky zenith"=dword:002D2925
+"Perspective sky horizon"=dword:00FFE5E5
+"Perspective ground origin"=dword:002D2925
+"Perspective ground horizon"=dword:00AAA097
+"Perspective sub-surface azimuth"=dword:00666666
+"Perspective sub-surface horizon"=dword:00666666
+"BEditBackground"=dword:009E9E9E
+"Plot preview background"=dword:00FFFFFF
+"XhairPickboxEtc"=dword:00FFFFFF
+"LayoutXhairPickboxEtc"=dword:00FFFFFF
+"Parallel Xhair color"=dword:00FFFFFF
+"Perspective Xhair color"=dword:00FFFFFF
+"BEdit Xhair color"=dword:00000000
+"2D Model grid major lines color"=dword:00694F49
+"Layout grid major lines color"=dword:00EAB09D
+"Parallel grid major lines color"=dword:00694F49
+"Perspective grid major lines color"=dword:00694F49
+"BEdit grid major lines color"=dword:00C8907E
+"2D Model grid minor lines color"=dword:00483732
+"Layout grid minor lines color"=dword:00EAB09D
+"Parallel grid minor lines color"=dword:00483732
+"Perspective grid minor lines color"=dword:00483732
+"BEdit grid minor lines color"=dword:00C8907E
+"2D Model grid axis lines color"=dword:005D4D47
+"Layout grid axis lines color"=dword:00EAB09D
+"Parallel grid axis lines color"=dword:005D4D47
+"Perspective grid axis lines color"=dword:005D4D47
+"BEdit grid axis lines color"=dword:008C8C8C
+"Autotracking vector"=dword:00808080
+"Model ATrack vector"=dword:00019801
+"Layout ATrack vector"=dword:0001CC01
+"Parallel ATrack vector"=dword:00019801
+"Perspective ATrack vector"=dword:00019801
+"BEdit ATrack vector"=dword:0001CC01
+"Control vertices hull color"=dword:003B4E8C
+"MonoVectors"=dword:00000000
+"Model Xhair use tint"=dword:00000000
+"Layout Xhair use tint"=dword:00000000
+"Parallel Xhair use tint"=dword:00000001
+"Perspective Xhair use tint"=dword:00000001
+"BEdit Xhair use tint"=dword:00000000
+"Model ATrack use tint"=dword:00000000
+"Layout ATrack use tint"=dword:00000000
+"Parallel ATrack use tint"=dword:00000000
+"Perspective ATrack use tint"=dword:00000000
+"BEdit ATrack use tint"=dword:00000000
+"2D Model grid major lines tint"=dword:00000000
+"Layout grid major lines tint"=dword:00000000
+"Parallel grid major lines tint"=dword:00000000
+"Perspective grid major lines tint"=dword:00000000
+"BEdit grid major lines tint"=dword:00000000
+"2D Model grid minor lines tint"=dword:00000000
+"Layout grid minor lines tint"=dword:00000000
+"Parallel grid minor lines tint"=dword:00000000
+"Perspective grid minor lines tint"=dword:00000000
+"BEdit grid minor lines tint"=dword:00000000
+"2D Model grid axis lines tint"=dword:00000001
+"Layout grid axis lines tint"=dword:00000000
+"Parallel grid axis lines tint"=dword:00000001
+"Perspective grid axis lines tint"=dword:00000001
+"BEdit grid axis lines tint"=dword:00000001
+"FontFace"="MS Sans Serif"
+"FontHeight"=dword:00000008
+"FontWeight"=dword:00000190
+"FontItalic"=dword:00000000
+"FontPitchAndFamily"=dword:00000000
+"ShowTabs"=dword:00000001
+"CreateViewports"=dword:00000000
+"ShowPaperBackground"=dword:00000000
+"ShowPaperMargins"=dword:00000000
+"ShowPrintBorder"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Dynamic Dimension]
+"Model Dynamic Dimension Line Color"=dword:009A9C96
+"Layout Dynamic Dimension Line color"=dword:00CCCCCC
+"Parallel Dynamic Dimension Line Color"=dword:009A9C96
+"Perspective Dynamic Dimension Line color"=dword:009A9C96
+"BEdit Dynamic Dimension Line color"=dword:00B4B8B8
+"Model Rubber-band Line Color"=dword:001EB4F0
+"Layout Rubber-band Line color"=dword:001EB4F0
+"Parallel Rubber-band Line Color"=dword:001EB4F0
+"Perspective Rubber-band Line color"=dword:001EB4F0
+"BEdit Rubber-band Line color"=dword:001EB4F0
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Editor Configuration]
+"LogFilePath"="%LocalRootFolder%\\"
+"EmergencyFont"="simplex.shx"
+"FontMappingFile"="%RoamableRootFolder%\\Support\\acad.fmp"
+"PSOUT_PrologFileName"=""
+"MainDictionary"="enu"
+"CustomDictionary"="%RoamableRootFolder%\\Support\\sample.cus"
+"MTextEditor"=" 內部"
+"XrefLoadPath"="%TempFolder%\\"
+"SaveFilePath"="C:\\ACAD-2D\\AUTOSAVE"
+"BActionColor"="7"
+"BGripObjColor"="141"
+"BParameterColor"="170"
+"BParameterFont"="新細明體"
+"ACADLspAsDoc"=dword:00000000
+"XCROSSHAIRLABEL"="X"
+"YCROSSHAIRLABEL"="Y"
+"ZCROSSHAIRLABEL"="Z"
+"PALCOLOR"="HSB:0,0,32"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\General]
+"ColorBookLocation"="%InstallFolder%\\Support\\Color;%RoamableRootFolder%\\Support\\Color;"
+"ACADDRV"="%InstallFolder%\\drv"
+"PrinterConfigDir"="%RoamableRootFolder%\\plotters"
+"PrinterStyleSheetDir"="%RoamableRootFolder%\\plotters\\Plot Styles"
+"PrinterDescDir"="%RoamableRootFolder%\\plotters\\PMP Files"
+"NewStyleSheet"=""
+"ACADHELP"="%InstallFolder%\\Help\\index.html"
+"ACAD"="C:\\ACAD-2D\\SUPPORT;%RoamableRootFolder%\\Support;%InstallFolder%\\Support;%InstallFolder%\\Support\\zh-TW;%InstallFolder%\\Fonts;%InstallFolder%\\help;%InstallFolder%\\express;%InstallFolder%\\Support\\Color;C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk AppManager.bundle\\Contents\\Resources;C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk AppManager.bundle\\Contents\\Windows\\2019;C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk FeaturedApps.bundle\\Contents\\Resources;C:\\ACAD-2D\\FONTS;"
+"DefaultFormatForSave"=dword:0000003C
+"DefaultConfig"="Adobe PDF"
+"LastModifiedConfig"="Adobe PDF"
+"MRUConfig"="Adobe PDF"
+"ACADLOGFILE"="%LocalRootFolder%\\acad.log"
+"MaxDwg"=dword:00000000
+"AVEMAPS"="C:\\Program Files (x86)\\Common Files\\Autodesk Shared\\Materials\\Textures\\1\\Mats"
+"TemplatePath"="C:\\ACAD-2D\\DWT"
+"PlotLogPath"="%LocalRootFolder%\\"
+"DatabaseWorkSpacePath"="%RoamableRootFolder%\\Data Links"
+"DefaultPlotStyle"="ByLayer"
+"DefaultLayerZeroPlotStyle"="Normal"
+"LineWeightUnits"=dword:00000001
+"LWDEFAULT"=dword:00000019
+"Delobj"=dword:00000003
+"Coords"=dword:00000001
+"MTextJigString"="abc"
+"SheetSetTemplatePath"="%LocalRootFolder%\\Template"
+"IESWEB"=""
+"DGNMAPPINGPATH"="%RoamableRootFolder%\\support"
+"ProfileStorage"="%RoamableRootFolder%\\support\\profiles\\2d-demo\\profile.aws"
+"ACTRECPATH"="%RoamableRootFolder%\\Support\\Actions\\"
+"ToolPalettePath"="%RoamableRootFolder%\\Support\\ToolPalette"
+"AuthorPalettePath"="%RoamableRootFolder%\\Support\\AuthorPalette"
+"WSCURRENT"="製圖與註解"
+"CustomColors"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\General Configuration]
+"ModeBits"=dword:FFFFFFFE
+"TempDirectory"="%TempFolder%\\"
+"PlotSpoolerDirectory"="%TempFolder%\\"
+"DefaultLoginName"=""
+"MenuFile"="C:\\acad-2d\\support\\acad"
+"IsavePercent"=dword:00000032
+"NetLocation"="http://www.autodesk.com.tw"
+"EnterpriseMenuFile"="."
+"IconFilePath"="%RoamableRootFolder%\\support\\icons"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Light]
+"Model glyphs color"=dword:00007DFA
+"Layout glyphs color"=dword:000066CC
+"Parallel glyphs color"=dword:00007DFA
+"Perspective glyphs color"=dword:00007DFA
+"BEdit glyphs color"=dword:000066CC
+"Model hotspot color"=dword:009DFFFF
+"Layout hotspot color"=dword:000057FF
+"Parallel hotspot color"=dword:009DFFFF
+"Perspective hotspot color"=dword:009DFFFF
+"BEdit hotspot color"=dword:000057FF
+"Model falloff color"=dword:000057FF
+"Layout falloff color"=dword:009DFFFF
+"Parallel falloff color"=dword:000057FF
+"Perspective falloff color"=dword:000057FF
+"BEdit falloff color"=dword:009DFFFF
+"Model start color"=dword:00F2E2B3
+"Layout start color"=dword:00F2E2B3
+"Parallel start color"=dword:00F2E2B3
+"Perspective start color"=dword:00F2E2B3
+"BEdit start color"=dword:00F2E2B3
+"Model end color"=dword:00AB7035
+"Layout end color"=dword:00AB7035
+"Parallel end color"=dword:00AB7035
+"Perspective end color"=dword:00AB7035
+"BEdit end color"=dword:00AB7035
+"Model Web color"=dword:0000FFFF
+"Layout Web color"=dword:0000FFFF
+"Parallel Web color"=dword:0000FFFF
+"Perspective Web color"=dword:0000FFFF
+"BEdit Web color"=dword:0000FFFF
+"Model Web(missing file) color"=dword:000000FF
+"Layout Web(missing file) color"=dword:000000FF
+"Parallel Web(missing file) color"=dword:000000FF
+"Perspective Web(missing file) color"=dword:000000FF
+"BEdit Web(missing file) color"=dword:000000FF
+"Model Web shape color"=dword:00FFBF7F
+"Layout Web shape color"=dword:00FFBF7F
+"Parallel Web shape color"=dword:00FFBF7F
+"Perspective Web shape color"=dword:00FFBF7F
+"BEdit Web shape color"=dword:00FFBF7F
+"Model lux at distance color"=dword:00757035
+"Layout lux at distance color"=dword:00AB7035
+"Parallel lux at distance color"=dword:00757035
+"Perspective lux at distance color"=dword:00757035
+"BEdit lux at distance color"=dword:00AB7035
+"Glyph size"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Menus]
+"Group1"="CUSTOM custom"
+"Pop1"="ACAD pop1"
+"Pop2"="ACAD pop2"
+"Pop3"="ACAD pop3"
+"Pop4"="ACAD pop4"
+"Pop5"="ACAD pop5"
+"Pop6"="ACAD pop6"
+"Pop7"="ACAD pop7"
+"Pop8"="ACAD pop8"
+"Pop9"="ACAD pop9"
+"Pop10"="ACAD pop10"
+"Pop11"="ACAD pop11"
+"Pop12"="ACAD pop12"
+"Pop500"="ACAD pop500"
+"Pop501"="ACAD pop501"
+"Pop502"="ACAD pop502"
+"Pop503"="ACAD pop503"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\StatusBar]
+"DockAboveStatusbar"=dword:00000000
+"ForcedDocAbove"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\SysvarMonitor]
+"CMDDIA"="1"
+"FILEDIA"="1"
+"HIGHLIGHT"="1"
+"MIRRTEXT"="0"
+"PICKADD"="2"
+"PICKAUTO"="5"
+"PICKFIRST"="1"
+"SDI"="0"
+"SELECTIONPREVIEW"="3"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Toolbars]
+"ACAD.AC_SMOOTH_MESH"="hide float 160 160 1"
+"ACAD.AC_SMOOTH_MESH_PRIMITIVES"="hide float 160 160 1"
+"ACAD.TB_DIMENSION"="hide float 80 104 1"
+"ACAD.TB_DRAW"="hide left 0 0"
+"ACAD.TB_DRAWORDER"="hide right 0 1"
+"ACAD.TB_INQUIRY"="hide float 80 136 1"
+"ACAD.TB_INSERT"="hide float 80 152 1"
+"ACAD.TB_LAYOUTS"="hide float 80 280 1"
+"ACAD.TB_MODIFY"="hide right 0 0"
+"ACAD.TB_MODIFY_II"="hide float 80 216 1"
+"ACAD.TB_OBJECT_PROPERTIES"="hide top 2 1"
+"ACAD.TB_LAYER"="hide top 1 1"
+"ACAD.TB_STYLES"="hide top 1 0"
+"ACAD.TB_OBJECT_SNAP"="hide float 80 168 1"
+"ACAD.TB_3DNAV"="hide float 80 280 1"
+"ACAD.TB_REFEDIT"="hide float 80 136 1"
+"ACAD.TB_REFERENCE"="hide float 80 296 1"
+"ACAD.TB_RENDER"="hide float 80 184 1"
+"ACAD.TB_SOLIDS"="hide float 80 200 1"
+"ACAD.TB_SOLIDS2"="hide float 80 200 1"
+"ACAD.TB_SURFACE_CREATION_FLYOUT"="hide float 0 200 1"
+"ACAD.TB_SURFACE_CREATION"="hide float 160 160 1"
+"ACAD.TB_SURFACE_Editing"="hide float 160 200 1"
+"ACAD.STANDARD_ANNOTATION"="hide top 0 0"
+"ACAD.TB_STANDARD"="hide top 0 0"
+"ACAD.TB_STANDARDS"="hide float 80 304 1"
+"ACAD.TB_TEXT"="hide float 80 256 1"
+"ACAD.TB_UCS"="hide float 80 248 1"
+"ACAD.TB_UCSII"="hide float 80 240 1"
+"ACAD.TB_WORKSPACES"="hide float 0 0 1"
+"ACAD.TB_VIEWPOINT"="hide float 80 264 1"
+"ACAD.TB_VIEWPORTS"="hide float 80 280 1"
+"ACAD.TB_WEB"="hide float 80 304 1"
+"ACAD.TB_ZOOM"="hide float 80 280 1"
+"ACAD.TB_LAYER2"="hide float 248 260 1"
+"ACAD.TB_LIGHTS"="hide float 160 160 1"
+"ACAD.TB_MATMAPPING"="hide float 160 160 1"
+"ACAD.TB_VISUALSTYLE"="hide float 160 160 1"
+"ACAD.TB_ORBIT"="hide float 160 160 1"
+"ACAD.TB_CAMERA_ADJUSTMENT"="hide float 160 160 1"
+"ACAD.TB_WALKANDFLY"="hide float 160 160 1"
+"ACAD.TB_MLEADER"="hide float 160 160 1"
+"ACAD.TB_FIND_TEXT"="hide float 160 160 1"
+"ACAD.TB_MEASUREMENT_TOOLS"="hide float 160 160 1"
+"ACAD.PARAMETRIC_TOOLBAR"="hide float 160 160 1"
+"ACAD.TB_GEOMCONSTRAINT"="hide float 160 160 1"
+"ACAD.TB_DIMCONSTRAINT"="hide float 160 160 1"
+"ACAD.TB_DRAWORDER_ANNOTATION_TO_FRONT"="hide float 160 160 1"
+"ACAD.TB_GROUP"="hide float 160 240 1"
+"ACAD.Array_Toolbar"="hide float 160 160 1"
+"ACAD.TB_ARRAYEDIT"="hide float 80 136 1"
+"ACAD.TB_POINTCLOUD"="hide float 80 152 1"
+"LargeButtons"="no"
+"ToolTips"="yes"
+"ShowShortcuts"="yes"
+"ShowCommandLine"="yes"
+"ShowUserTags"="yes"
+"ShowExtended"="yes"
+"ExtendAfter"="2.000000"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Tooltip]
+"Model color"=dword:00000000
+"Layout color"=dword:007F7F7F
+"Parallel color"=dword:00000000
+"Perspective color"=dword:00000000
+"BEdit color"=dword:007F7F7F
+"Model contour color"=dword:00000000
+"Layout contour color"=dword:00E5E5E5
+"Parallel contour color"=dword:00000000
+"Perspective contour color"=dword:00000000
+"BEdit contour color"=dword:00CFCCCA
+"Model bk color"=dword:00999999
+"Layout bk color"=dword:00FFFFFF
+"Parallel bk color"=dword:00999999
+"Perspective bk color"=dword:00999999
+"BEdit bk color"=dword:00FFFFFF
+"Model bk use tint"=dword:00000000
+"Layout bk use tint"=dword:00000000
+"Parallel bk use tint"=dword:00000001
+"Perspective bk use tint"=dword:00000001
+"BEdit bk use tint"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\Profiles\2D-DEMO\Variables]
+"*2DRETAINMODELEVEL"="3"
+"TRUSTEDPATHS"=""
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Application Window]
+"Show"=dword:00000003
+"Position"="2 2 1918 1030"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Command Line Windows]
+"TextWindow.Show"=dword:00000001
+"TextWindow.Position"="591 228 1329 803"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands]
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-ARCHIVE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-ATTDEF]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-ATTEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-COLOR]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-ETRANSMIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-GROUP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-HATCHEDIT]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-IMAGE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-INSERT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-LAYER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-STYLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-TABLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-TEXT]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-VIEW]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\-VPORTS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\3DCONFIG]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\3DMOVE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\3DOSNAP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\3DROTATE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ABOUT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARCHIVE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARRAY]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARRAYEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARRAYPATH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARRAYPOLAR]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARRAYRECT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ARX]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ATTDEF]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ATTEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ATTEXT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BCLOSE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BHATCH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BLOCK]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BOUNDARY]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BOX]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BPARAMETER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BPOLY]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BSAVEAS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BVSTATE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\BWBLOCKAS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CHAMFER]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CHAMFEREDGE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CLASSICIMAGE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CLASSICXREF]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\COLOR]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVERT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVERTCTB]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVERTPSTYLES]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVTOMESH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVTOSOLID]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CONVTOSURFACE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\COPY]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\COPYTOLAYER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CUILOAD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\CUIUNLOAD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DDEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DIM]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DIM1]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DIMEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DIMSTYLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DTEXT]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DWGCONVERT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DXFIN]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\DXFOUT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\EDITTABLECELL]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ETRANSMIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\EXECUTETOOL]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\EXPLODE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\EXTRUDE]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\FILLET]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\GEOMARKLATLONG]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\GEOMARKME]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\GEOMARKPOINT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\GEOMARKPOSITION]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\GROUP]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\HATCH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\HATCHEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\HELIX]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\HIDE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\IMAGE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\IMAGEADJUST]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\INSERT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\JOIN]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYDEL]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYISO]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYMCH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYMRG]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LAYOUT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LINETYPE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LOFT]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\LWEIGHT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MASSPROP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MENULOAD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MENUUNLOAD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MESHSMOOTH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MLEADER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MLEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MOVE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MTEXT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\MVIEW]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\OPENDWFMARKUP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\OSNAP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PAN]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PLANESURF]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PLOTSTAMP]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PLOTSTYLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PSETUPIN]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PSOUT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PURGE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\PYRAMID]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\QUICKCALC]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\RENAME]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\RENDER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\REVCLOUD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\REVOLVE]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\ROTATE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SCALE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SELECT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SHADE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SHADEMODE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SKETCH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SOLIDEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SPLINE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SPLINEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\STRETCH]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\STYLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\SWEEP]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\TABLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\TABLEDIT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\TABLESTYLE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\TEXT]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\TOOLBAR]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\UCS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\UNITS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VBALOAD]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VBARUN]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VIEW]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VIEWBASE]
+"DefaultVersion"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VIEWPORTS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VPLAYER]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VPOINT]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\VPORTS]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\WBLOCK]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\WSSAVE]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\XBIND]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Commands\XREF]
+"DefaultVersion"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Drawing Window]
+"Show"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\Editor Configuration]
+"SDF_AttributeExtractTemplateFile"=""
+"AutoSnapPolarDistance"="0"
+"AutoSnapPolarAddAng"=""
+"Model AutoSnap Color"=dword:00019801
+"Layout AutoSnap Color"=dword:0001CC01
+"Parallel AutoSnap Color"=dword:00019801
+"Perspective AutoSnap Color"=dword:00019801
+"BEdit AutoSnap Color"=dword:0001CC01
+"Model 3d AutoSnap Color"=dword:00FF7F00
+"Layout 3d AutoSnap Color"=dword:00FF7F00
+"Parallel 3d AutoSnap Color"=dword:00FF7F00
+"Perspective 3d AutoSnap Color"=dword:00FF7F00
+"BEdit 3d AutoSnap Color"=dword:00FF7F00
+"2D Model viewport control color"=dword:00FFFFFF
+"Parallel viewport control color"=dword:00FFFFFF
+"Perspective viewport control color"=dword:00FFFFFF
+"GripColor"=dword:00000002
+"PickBox"=dword:00000007
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\General]
+"FavoriteMaterialLibrary"="%RoamableRootFolder%\\Materials\\FavoriteMaterials.adsklib"
+"CMLInternetSearchURL"="http://www.google.com/search?q={0}"
+"ToolTipInitialDelay"="1000"
+"CMLInternetSearchPrefix"="AutoCAD"
+"ActUI"=dword:00000006
+"ANSIHatch"="acad.pat"
+"ANSILinetype"="acad.lin"
+"ISOHatch"="acadiso.pat"
+"ISOLinetype"="acadiso.lin"
+"PATH"="%InstallFolder%\\zh-tw;c:\\program files (x86)\\vmware\\vmware workstation\\bin\\;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\windows\\system32\\openssh\\;c:\\program files (x86)\\nvidia corporation\\physx\\common;c:\\program files\\nvidia corporation\\nvidia nvdlisr;c:\\program files\\microsoft sql server\\130\\tools\\binn\\;c:\\program files\\microsoft sql server\\120\\tools\\binn\\;c:\\program files (x86)\\microsoft vs code\\bin;c:\\program files\\microsoft sql server\\client sdk\\odbc\\170\\tools\\binn\\;c:\\windows\\system32\\wbem;c:\\program files\\dotnet\\;c:\\program files\\git lfs;d:\\git\\cmd;%UserProfileFolder%\\appdata\\local\\microsoft\\windowsapps;%UserProfileFolder%\\.dotnet\\tools;%RoamableRootFolder%\\support;%InstallFolder%\\support;%InstallFolder%\\support\\zh-tw;%InstallFolder%\\fonts;%InstallFolder%\\help;%InstallFolder%\\express;%InstallFolder%\\support\\color;%InstallFolder%;%InstallFolder%\\drv;c:\\program files (x86)\\autodesk\\applicationplugins\\autodesk appmanager.bundle\\contents\\resources;C:\\Program Files (x86)\\Autodesk\\ApplicationPlugins\\Autodesk AppManager.bundle\\Contents\\Windows\\2019;"
+"MeshMaxFaceValue"=dword:00000001
+"Measureinit"=dword:00000001
+"InsertUnitsDefSource"=dword:00000004
+"InsertUnitsDefTarget"=dword:00000004
+"ProfileStorage"="%RoamableRootFolder%\\support\\profiles\\fixedprofile.aws"
+"TaskBar"=dword:00000001
+"LastTemplate"="%LocalRootFolder%\\Template\\acadiso.dwt"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R23.0\ACAD-2001:404\FixedProfile\General Configuration]
+
+__BEGIN_FIXED_PROFILE_STORAGE_R16__
+
+<Profile><StorageRoot><AcApData><HideableDialogs/></AcApData></StorageRoot><Name>*Fixed_Profile</Name><Description></Description></Profile>
+
+__END_FIXED_PROFILE_STORAGE_R16__
+
+__BEGIN_PROFILE_STORAGE_R16__
+
+<Profile><StorageRoot><AcApData/><Ribbon/><QuickAccessToolbar Workspace="製圖與註解"><QuickAccessToolbarItems ToolbarId="ACAD.QAT_TOOLBAR1" Orientation="Above"/></QuickAccessToolbar></StorageRoot><Name>2D-DEMO</Name><Description></Description></Profile>
+
+__END_PROFILE_STORAGE_R16__
